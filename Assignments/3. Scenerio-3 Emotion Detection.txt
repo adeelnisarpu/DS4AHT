@@ -1,0 +1,3 @@
+Problem: Classification
+Dataset: RAVDESS, CREMA_D, etc
+Method: Recurrent Neural Networks (LSTM, GRU)

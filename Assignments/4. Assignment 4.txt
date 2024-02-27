@@ -1,0 +1,1 @@
+Combine all three scenerios (Activity Monitoring, SenseHunger and Emotion Recognition) to create a web application with an interface built in either "Gradio" or "FAST-API".

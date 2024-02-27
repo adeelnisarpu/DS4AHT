@@ -1,0 +1,5 @@
+Problem: Classification
+Dataset: SenseHunger
+Methods: 
+1. Feature Engineering
+2. Feature Learning
